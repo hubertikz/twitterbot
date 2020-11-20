@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 """
-Copyright 2016 Randal S. Olson
+Copyright 2020 Hubert Ikuzwe Nduwayo
 
 This file is part of the Twitter Bot library.
 
